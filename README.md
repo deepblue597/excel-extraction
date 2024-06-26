@@ -1,7 +1,7 @@
 
 # Excel File Processing Script
 ## Overview
-This Python script processes multiple Excel files in a specified folder. It reads each file, extracts specific values based on conditions, and saves the results to new Excel files with modified names.
+This Python script processes multiple Excel files in a specified folder. It reads each file, extracts specific values based on conditions, and saves the results to new Excel files with modified names. Used by Med students in AUTh 
 
 ## Requirements
 - Python 3.x
