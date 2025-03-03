@@ -1,7 +1,8 @@
 
 # Excel File Processing Script
 ## Overview
-This Python script processes multiple Excel files in a specified folder. It reads each file, extracts specific values based on conditions, and saves the results to new Excel files with modified names. Used by Med students in AUTh 
+
+This project automates the extraction of specific medical test values from Excel files, for medical students at AUTh. It identifies key biomarkers (e.g., glucose, urea, creatinine, SGOT) from structured lab reports, processes the data, and saves the extracted values in a new Excel file for further analysis.
 
 ## Requirements
 - Python 3.x
